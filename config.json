@@ -1,0 +1,15 @@
+{
+	"TESTNET_CORE_URL" : "https://api.shasta.trongrid.io/wallet",
+	"TESTNET_GENERATE_ADDRESS": "/generateaddress",
+	"TESTNET_GET_BLOCK_BY_NUM" : "/getblockbynum",
+	"TESTNET_GET_TX_BY_ID" : "/gettransactionbyid",
+	"TESTNET_ADD_ASSET" : "/createassetissue",
+	"TESTNET_GET_TX_SIGN" : "/gettransactionsign",
+	"TESTNET_BROADCAST_TX" : "/broadcasttransaction",
+	"TESTNET_GET_ACCOUNT": "/getaccount",
+	"TESTNET_EASY_TRANSFER" : "/easytransferbyprivate",
+	"TESTNET_OWNER_ADDRESS" : "41b2baa931864d67e5763267c6b88b41cd12c2c1af",
+	"TX_PRIVATE_KEY" : "89b7b4aeb74dc3da7283a7c289c9c31c40d0f32944c0cb24b0cf1817ee485138",
+	"USER_DB_PATH" : "db/users.json",
+	"ASSETS_DB_PATH" : "db/assets.json"
+}
